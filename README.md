@@ -23,6 +23,6 @@ Start Time: 2026/07/25
 
 If you find this repository useful and want to support me, you can donate to the following addresses:
 
-- TRC20(USDT): `TFcnV2Wek5Ar3Vja8en18M3f8rg5A2qZx7`
-- BEP20(BNB): `0x6e80a040d45a718f436ac0fdcbb2d28be87a65ec`
-- Bitcoin(BTC): `1PW7RgvWg4s1SQHVUcBg1mtwm8KTFXD5DL`
+- Monero(XMR): `45gR8L7MrSFdZMSBA5bntpM8bBgrGWtyXTHsFRttMBvt2kgpEVHQfEtdN9NfddbUbzK2ubCTxFezDfDB3DpSkN9CScYipox`
+- Litecoin(LTC): `ltc1qy9dkl34x5hf5ukk6ep85n8h86x5q45r9xvp3um`
+- Bitcoin(BTC): `bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n`
